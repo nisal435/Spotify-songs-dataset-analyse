@@ -1,0 +1,5 @@
+# Import necessary libraries: pandas for data manipulation, matplotlib.pyplot for basic plotting,
+# and seaborn for advanced statistical visualizations and graphics.
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
